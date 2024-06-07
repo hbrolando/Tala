@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">Tala</string>
+
+    <string name="tala">Reparacion y diagnostico de Celulares</string>
+    <string name="tv_repair">Detalles de reparación</string>
+    <string name="text_repair">Consulta la falla del dispositivo movil.</string>
+    <string name="button_diagnostic">Diagnostic</string>
+    <string name="logo">Logo</string>
+    <string name="por_favor">Por favor inserte la consulta que desea realizar</string>
+    <string name="error_placa">Si tu celular no enciende, hay varios pasos que puedes seguir para intentar solucionar el problema:
+Verificar la batería: La batería es una de las razones más comunes por las que un celular no enciende. Verifica que la batería esté en buen estado y no tenga problemas de carga. Si la batería está dañada, puede ser necesario reemplazarla.
+Reiniciar el dispositivo: Presiona el botón de encendido del teléfono durante 5-7 segundos. Esto puede reiniciar el dispositivo y solucionar el problema.
+Comprobar el cable y adaptador de alimentación: Asegúrate de que el cable y el adaptador de alimentación estén conectados correctamente al teléfono y al cargador. Si no funcionan, intenta usar otro cable o adaptador.
+Verificar la pantalla: Si la pantalla está dañada o no funciona correctamente, puede impedir que el teléfono encienda. Intenta limpiar la pantalla y asegúrate de que no esté rajada o quebrada.
+Intentar cargar el teléfono: Conecta el teléfono con un cable, cargador y tomacorriente que funcionen. Si el teléfono no carga, intenta cargar otro dispositivo con el mismo cable y adaptador de alimentación para verificar si el problema está en el teléfono o en el cable.
+Revisar la funda o carcasa: Si el teléfono está dentro de una funda o carcasa, intenta retirarla para asegurarte de que no esté bloqueando los botones del teléfono.
+Verificar si el teléfono está hinchado: En algunos casos, el teléfono puede estar encendido pero no funcionar debido a que está hinchado. Verifica si el teléfono está hinchado y, si es así, intenta desinflarlo.
+Si no funcionan estos pasos, es posible que el problema sea más complejo y te recomiendo buscar ayuda en un centro de reparación autorizado o contactar al fabricante del teléfono para obtener más información y soluciones específicas.</string>
+
+    <string name="error_microfono">Entiendo, parece que tienes un problema con el audio de tu teléfono celular. Aquí te doy algunas sugerencias para solucionar el problema de que no te escuchan cuando hablas:
+Verificar el micrófono
+Revisa que el micrófono del teléfono no esté obstruido o cubierto por algo.
+Limpia suavemente el micrófono con un paño seco o un cepillo suave para eliminar cualquier suciedad o pelusa.
+Comprobar los ajustes de audio
+Verifica que el volumen del micrófono esté configurado correctamente en los ajustes de sonido del teléfono.
+Asegúrate de que el modo de silencio o vibración no esté activado, lo que podría desactivar el micrófono.
+Reiniciar el teléfono
+Realiza un reinicio completo del teléfono, apagándolo y volviéndolo a encender.
+Esto puede ayudar a resolver problemas de software que puedan estar afectando el funcionamiento del micrófono.
+Actualizar el software
+Revisa si hay actualizaciones disponibles para el sistema operativo de tu teléfono.
+Las actualizaciones a menudo incluyen correcciones de errores y mejoras de rendimiento.
+Verificar el hardware
+Si los pasos anteriores no funcionan, es posible que haya un problema con el hardware del micrófono.
+En ese caso, deberías llevar el teléfono a un servicio técnico autorizado para que lo revisen y reparen si es necesario.
+Espero que estas sugerencias te ayuden a solucionar el problema de audio en tu teléfono celular. Si persiste, no dudes en consultar a un experto en reparación de dispositivos móviles.</string>
+    <string name="error_pantalla">Según la información proporcionada en los resultados de búsqueda, si tu celular se cayó y ahora no ves imagen, estos son los pasos que puedes seguir para intentar solucionar el problema:
+Revisa el display/pantalla:
+Es posible que el impacto haya dañado la pantalla del celular, lo que impide que se muestre la imagen.
+Inspecciona visualmente la pantalla en busca de grietas, abolladuras o daños.
+1
+
+4
+Verifica los conectores internos:
+Una caída puede haber desconectado o dañado algún conector interno relacionado con la pantalla.
+Intenta desarmar cuidadosamente el celular y revisa los cables y conexiones de la pantalla.
+1
+
+4
+Comprueba el backlight (luz de fondo):
+Si ves que el celular se enciende y tiene luz de fondo, pero no muestra imagen, puede ser un problema con el backlight.
+Esto podría requerir la sustitución de algún componente relacionado con la iluminación de la pantalla.
+1
+Actualiza el software:
+Asegúrate de tener la última versión del sistema operativo y drivers del celular instalados.
+Las actualizaciones a menudo incluyen correcciones de errores y mejoras de rendimiento.
+Lleva el celular a servicio técnico:
+Si los pasos anteriores no resuelven el problema, es probable que haya un daño hardware en la pantalla o en algún componente interno.
+En ese caso, lo mejor es llevarlo a un servicio técnico autorizado para que lo revisen y reparen.
+1
+
+4
+Recuerda tener cuidado al manipular el celular y seguir las instrucciones de los videos y manuales para evitar dañarlo aún más durante el proceso de diagnóstico y reparación.</string>
+    <string name="error_parlante">Basado en la información proporcionada en los resultados de búsqueda, si el parlante de tu celular no funciona, aquí hay algunas posibles soluciones que podrías intentar:
+Verificar el volumen y ajustes del parlante:
+Asegúrate de que el volumen del parlante esté configurado correctamente y no esté en silencio.
+Revisa los ajustes de sonido del teléfono para asegurarte de que el parlante esté habilitado y configurado adecuadamente.
+Reiniciar el teléfono:
+Realiza un reinicio completo del teléfono para ver si esto resuelve el problema.
+A veces, reiniciar el dispositivo puede solucionar problemas temporales con el parlante.
+Limpiar el parlante:
+Puede haber suciedad o residuos obstruyendo el parlante, lo que afecta su funcionamiento.
+Intenta limpiar suavemente el parlante con un cepillo suave o aire comprimido para eliminar cualquier obstrucción.
+Verificar la configuración de audio:
+Asegúrate de que el teléfono esté configurado para reproducir audio a través del parlante y no de auriculares u otro dispositivo de audio externo.
+Revisar posibles daños físicos:
+Si el parlante ha sufrido daños físicos, como golpes o caídas, es posible que necesite ser reparado o reemplazado por un técnico especializado.
+Actualización de software:
+Verifica si hay actualizaciones de software disponibles para tu dispositivo, ya que a veces las actualizaciones pueden solucionar problemas de hardware como el parlante.
+Si después de intentar estas soluciones el parlante de tu celular sigue sin funcionar, sería recomendable llevarlo a un servicio técnico autorizado para una evaluación más detallada y posible reparación del parlante.</string>
+    <string name="error_carga">Si tu celular ya no carga, aquí te doy algunas recomendaciones para intentar solucionar el problema:
+Revisa el cable y cargador
+Comprueba que el cable de carga no esté dañado, roto o desgastado.
+Prueba con otro cable y adaptador de carga para descartar que el problema esté en estos elementos.
+Limpia el puerto de carga
+Apaga el celular y usa un palillo o herramienta suave para limpiar cuidadosamente el puerto de carga, eliminando posible suciedad o polvo acumulado.
+Usa una linterna para verificar que no quede nada en el interior del puerto.
+Verifica el estado de la batería
+Si el celular no carga incluso con otro cable y adaptador, es posible que el problema esté en la batería.
+Intenta retirar y volver a insertar la batería para ver si mejora la carga.
+Revisa el software
+Problemas de software o actualizaciones recientes pueden impedir que el celular cargue correctamente.
+Prueba reiniciando el dispositivo o forzando un reinicio si es necesario.
+Restaura a valores de fábrica
+Si el problema persiste, como última opción puedes intentar restaurar el celular a valores de fábrica.
+Recuerda hacer una copia de seguridad antes de restaurar para no perder datos.
+Si después de probar estas soluciones el celular sigue sin cargar, es probable que haya un problema de hardware que requiera revisión por un técnico especializado. No dudes en acudir a un servicio técnico autorizado para que evalúen el dispositivo y realicen la reparación necesaria.
+    -----------------------------------------------------------------------------------
+    tu celular tiene un cortocircuito, es importante evaluar los síntomas y seguir los pasos para diagnosticar y solucionar el problema. Aquí te presento algunos pasos para ayudarte a determinar si tu celular tiene un cortocircuito:
+Identificar los síntomas:
+No enciende: Si tu celular no se enciende, puede ser un signo de un cortocircuito.
+No carga: Si no carga, puede indicar un problema en la placa base.
+No funciona: Si no funciona correctamente, puede ser debido a un cortocircuito en algún componente interno
+2
+
+3
+.
+Verificar la entrada de líquido:
+Mojo: Si tu celular se ha mojado, es probable que haya un cortocircuito. La oxidación puede causar daños irreparables en los componentes electrónicos
+2
+
+3
+.
+Medir componentes:
+Multímetro: Utiliza un multímetro para medir los componentes alrededor del Fénix (la línea principal del circuito) en escala de continuidad. Si se encuentra un componente que muestre continuidad en ambos lados, es probable que haya un cortocircuito
+2
+.
+Verificar caídas de tensión:
+Medir caídas de tensión: Medir la caída de tensión en los componentes. Si la caída de tensión es muy baja pero no cero, puede indicar un cortocircuito
+2
+.
+Reparación:
+Servicio técnico: Si no puedes reparar el dispositivo tú mismo, es recomendable llevarlo a un servicio técnico especializado para evaluar y reparar el daño. En algunos casos, puede ser necesario reemplazar la placa completa, lo que puede ser costoso
+1
+
+3
+.
+Recuerda que es fundamental cuidar tu celular para evitar problemas como cortocircuitos. Asegúrate de usar un cargador original y mantener el dispositivo en un entorno seco y fresco</string>
+    <string name="codigo">package com.example.tala;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.content.Intent;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+public class MainActivity extends AppCompatActivity {
+    EditText editText;
+    Button btnSearch;
+    TextView tvDetails;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+       editText=(EditText) findViewById(R.id.editTextTextPersonName);
+       btnSearch=(Button) findViewById(R.id.button);
+       tvDetails=(TextView) findViewById(R.id.textView);
+    btnSearch.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+           // String searchQuery = editText.getText().toString();
+           // if (!searchQuery.isEmpty()) {
+           //     tvDetails.setText(searchQuery);
+          //  } else {
+           //     tvDetails.setText("Por favor, ingresa un texto en la caja de texto.");
+          //  }
+           // String searchQuery = editText.getText().toString();
+          //  if (!searchQuery.isEmpty()) {
+          //      tvDetails.setText(searchQuery);
+          //  } else if (searchQuery.length() > 50) {
+          //      tvDetails.setText("El texto ingresado es demasiado largo. Por favor, ingresa un texto más corto.");
+         //   }
+
+
+
+           // else {
+             //   tvDetails.setText("Por favor, ingresa un texto en la caja de texto.");
+          //  }
+
+            String searchQuery = editText.getText().toString();
+            if (searchQuery.equals("placa base") || searchQuery.equals("corto circuito") || searchQuery.equals("no sube nivel de bateria")) {
+                tvDetails.setText("R.string.error_placa");
+                editText.setText("");
+            }
+            else if(searchQuery.isEmpty()) {
+               tvDetails.setText("Por favor inserte la consulta que desea realizar");
+                editText.setText("");
+               // tvDetails.setText(searchQuery);
+            }
+            else if (searchQuery.equals("problemas de microfono") || searchQuery.equals("microfono") || searchQuery.equals("microfono") ||
+            searchQuery.equals("error de microfono")|| searchQuery.equals("no me escuchan lo que hablo")|| searchQuery.equals("microfono dañado")) {
+                tvDetails.setText(R.string.error_microfono);
+                editText.setText("");
+            }
+            else if (searchQuery.equals("pantalla rota") || searchQuery.equals("no veo imagen") || searchQuery.equals("pantalla clisada") ||
+                    searchQuery.equals("solo escucho sonido")|| searchQuery.equals("pantalla oscuro")) {
+                tvDetails.setText(R.string.error_pantalla);
+                editText.setText("");
+            }
+            else if (searchQuery.equals("no escucho sonido") || searchQuery.equals("no da audio") || searchQuery.equals("el parlante no suena") ||
+                    searchQuery.equals("mi parlante esta dañado")|| searchQuery.equals("lo hice caer ahora al agua mi parlante no suena")) {
+                tvDetails.setText(R.string.error_parlante);
+                editText.setText("");
+            }
+            else if (searchQuery.equals("no carga") || searchQuery.equals("no puedo cargar mi celular") || searchQuery.equals("la entrada de carga esta dañado") ||
+                    searchQuery.equals("se desoldo la entrada de carga")|| searchQuery.equals("la entrada de carda no funciona") || searchQuery.equals("modulo de carga dañado") ||
+            searchQuery.equals("falla de modulo de carga") || searchQuery.equals("pin dañado")) {
+                tvDetails.setText(R.string.error_carga);
+                editText.setText("");
+            }
+
+            else if (searchQuery.equals("placa")) {
+                tvDetails.setText(R.string.error_placa);
+                editText.setText("");
+            }
+
+            else {
+                tvDetails.setText("Escriba su consulta");
+                editText.setText("");
+            }
+
+
+
+        }
+    });
+
+    }
+}</string>
+
+</resources>
